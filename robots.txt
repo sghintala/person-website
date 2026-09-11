@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sghintala.github.io/person-website/sitemap.xml
