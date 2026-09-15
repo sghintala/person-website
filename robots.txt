@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sghintala.github.io/person-website/sitemap.xml
+Sitemap: https://sghintala.github.io/sitemap.xml
