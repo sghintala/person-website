@@ -18,7 +18,7 @@
 .sidebar-note { margin-top: 75px; color: #9aa5ba; font: 500 10px/1.55 "DM Mono", monospace; letter-spacing: .04em; text-transform: uppercase; }
 .post-feed { border-top: 1px solid var(--line); }
 .post-card { padding: 28px 0 32px; border-bottom: 1px solid var(--line); transition: padding .2s ease, background .2s ease; }
-.post-card:hover { padding-inline: 15px; background: rgba(79, 107, 255, .05); }
+.post-card:hover { padding-inline: 15px; background: rgba(88, 102, 90, .06); }
 .post-card.post-featured { padding-top: 32px; padding-bottom: 40px; }
 .post-meta { display: flex; gap: 19px; color: #8d98ae; font: 500 10px "DM Mono", monospace; letter-spacing: .05em; text-transform: uppercase; }
 .post-meta span:first-child { color: var(--blue); }
